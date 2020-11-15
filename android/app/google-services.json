@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "363381836437",
+    "firebase_url": "https://baroqetest.firebaseio.com",
+    "project_id": "baroqetest",
+    "storage_bucket": "baroqetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363381836437:android:64beb2a12ed55681f5e99c",
+        "android_client_info": {
+          "package_name": "com.baroqe.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "YOUR CLIENT ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "YOUR CLIENT ID",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363381836437:android:7287168f8478fa41f5e99c",
+        "android_client_info": {
+          "package_name": "com.pushnotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "YOUR CLIENT ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "YOUR CLIENT ID",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
